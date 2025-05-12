@@ -6,7 +6,7 @@ In this repository a random forest regression model was used to find the probabi
 
 CA_State.shp - Provides California state boundary lines (from CA.gov)
 
-California_Fire_Perimeters_2015_to_2020.xlsx - Provides historical fire data in the state of California
+California_Fire_Perimeters_2015_to_2020.shp - Provides historical fire data in the state of California
 
 Fire_Area.ipynb - Maps the historical fire data on the state of California
 
